@@ -1,0 +1,1 @@
+This is just a simple text file to use in different scenarios to understand the git workflows.
