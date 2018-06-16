@@ -1,1 +1,2 @@
-This is just a simple text file to use in different scenarios to understand the git work-flows.
+This is just a simple text file to use in different scenarios to understand the git work-flows. This is the line updated by user-2
+This is another new line by user2
