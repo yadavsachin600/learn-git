@@ -1,4 +1,4 @@
 This is just a simple text file to use in different scenarios to understand the git work-flows. This first line is updated by user-1 This is the line updated by user-2
 This is the new line added by user-1 as a part of feature-1
 Hello, this is user1
-Hello, this is user2
+Hello, this is user2. User2 is trying to create some conflict
