@@ -1,4 +1,4 @@
 Added a new file as part of INT-021
 Now this line has been added by user-2
 Hello again from user 2
-User2 is adding a new line in a separate file
+User2 is adding a new line in a separate file and showing the git without squash
